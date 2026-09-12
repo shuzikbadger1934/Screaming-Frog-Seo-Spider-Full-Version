@@ -236,3 +236,6 @@ This repository serves as the official landing page for Screaming Frog SEO Spide
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Screaming Frog SEO Spider today!**
+
+---
+**Last updated:** 2026-09-12 05:12:35 UTC
