@@ -238,4 +238,4 @@ This repository serves as the official landing page for Screaming Frog SEO Spide
 **Get the most recent version of Screaming Frog SEO Spider today!**
 
 ---
-**Last updated:** 2026-10-17 23:33:38 UTC
+**Last updated:** 2026-10-18 01:46:05 UTC
